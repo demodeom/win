@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="14247e35">
+        <description><![CDATA[Created after removal of "<代码编辑器.md>" from Instance Name]]></description>
+        <accepts>代码编辑器.html</accepts>
+    </rule>
+    <rule id="3cf6be95">
+        <description><![CDATA[Created after removal of "<版本管理.md>" from Instance Name]]></description>
+        <accepts>版本管理.html</accepts>
+    </rule>
+    <rule id="5557f48f">
+        <description><![CDATA[Created after removal of "<开发语言.md>" from Instance Name]]></description>
+        <accepts>开发语言.html</accepts>
+    </rule>
+    <rule id="4239950c">
+        <description><![CDATA[Created after removal of "<网盘.md>" from Instance Name]]></description>
+        <accepts>网盘.html</accepts>
+    </rule>
+    <rule id="1a5f3f88">
+        <description><![CDATA[Created after removal of "<下载工具.md>" from Instance Name]]></description>
+        <accepts>下载工具.html</accepts>
+    </rule>
+    <rule id="7ab5c964">
+        <description><![CDATA[Created after removal of "<代理.md>" from Instance Name]]></description>
+        <accepts>代理.html</accepts>
+    </rule>
+    <rule id="2a7be2c1">
+        <description><![CDATA[Created after removal of "<开发语言.md>" from Instance Name]]></description>
+        <accepts>开发语言.html</accepts>
+    </rule>
+    <rule id="368de4c1">
+        <description><![CDATA[Created after removal of "<版本管理.md>" from Instance Name]]></description>
+        <accepts>版本管理.html</accepts>
+    </rule>
+    <rule id="77fe292d">
+        <description><![CDATA[Created after removal of "<代码编辑器.md>" from Instance Name]]></description>
+        <accepts>代码编辑器.html</accepts>
+    </rule>
+    <rule id="1c6783e0">
+        <description>Created after removal of "开发工具" from Instance Name</description>
+        <accepts>开发工具.html</accepts>
+    </rule>
+    <rule id="604f6d29">
+        <description><![CDATA[Created after removal of "<截图、录屏工具.md>" from Instance Name]]></description>
+        <accepts>截图、录屏工具.html</accepts>
+    </rule>
+    <rule id="4ccfc7c8">
+        <description><![CDATA[Created after removal of "<视频播放器.md>" from Instance Name]]></description>
+        <accepts>视频播放器.html</accepts>
+    </rule>
+    <rule id="5665020d">
+        <description><![CDATA[Created after removal of "<浏览器.md>" from Instance Name]]></description>
+        <accepts>浏览器.html</accepts>
+    </rule>
+    <rule id="3430bd27">
+        <description><![CDATA[Created after removal of "<聊天.md>" from Instance Name]]></description>
+        <accepts>聊天.html</accepts>
+    </rule>
+    <rule id="45065781">
+        <description>Created after removal of "系统" from Instance Name</description>
+        <accepts>系统.html</accepts>
+    </rule>
+    <rule id="3d3e5c94">
+        <description>Created after removal of "启动U盘、刻盘工具" from Instance Name</description>
+        <accepts>启动U盘.html</accepts>
+    </rule>
+    <rule id="786f520f">
+        <description>Created after removal of "办公Office" from Instance Name</description>
+        <accepts>办公-Office.html</accepts>
+    </rule>
+</rules>
